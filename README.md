@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="28" alt="Selenium" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=java" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="28" alt="Eclipse" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px">
+
 -->
 ![👋 Hi, my name is Abhishek!!](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
@@ -35,12 +38,25 @@ Here are some ideas to get you started:
 
 - 💼 I'm currently working on: **💻 Web & Mobile Test Automation**
 - 🌱 I'm currently learning: **📚 Exploring Perf. Test**
-- 💬 Ask me about: **💡 Selenium, Appium, Java, Cucumber, Robot, TestNG, Jenkins, JMeter, RestAssured, Git, Jira**
+- 💬 Ask me about: **💡 Selenium, Appium, Java, Cucumber, Robot, TestNG, Jenkins, JMeter, RestAssured, Git, Jira, API Testing, Perf. Test**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on Boat!**
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="28" alt="Selenium" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=java" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="28" alt="Eclipse" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="28" alt="Selenium" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Appium-0099CC?logo=appium&logoColor=white" height="28" alt="Appium" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Cucumber-2A6041?logo=cucumber&logoColor=white" height="28" alt="Cucumber" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/RobotFramework-FF0000?logo=robotframework&logoColor=white" height="28" alt="Robot Framework" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/TestNG-29A844?logo=testng&logoColor=white" height="28" alt="TestNG" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/JMeter-1ABC9C?logo=apachejmeter&logoColor=white" height="28" alt="JMeter" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/RestAssured-2A9FBF?logo=rest-assured&logoColor=white" height="28" alt="RestAssured" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" height="28" alt="Jira" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/API%20Testing-3FA796?logo=apachespark&logoColor=white" height="28" alt="API Testing" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Performance%20Testing-4B9CD3?logo=performance-testing&logoColor=white" height="28" alt="Performance Testing" style="margin-right: 4px">
+ </div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
